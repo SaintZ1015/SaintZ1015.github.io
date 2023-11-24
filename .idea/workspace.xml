@@ -4,142 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4ea3ad81-821f-4fd8-933d-c8188df20b81" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/SaintZ1015.github.io.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/user.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/Damion-Regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/LICENSE.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/OpenSans-Bold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/OpenSans-BoldItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/OpenSans-ExtraBold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/OpenSans-ExtraBoldItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/OpenSans-Italic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/OpenSans-Light.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/OpenSans-LightItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/OpenSans-Regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/OpenSans-SemiBold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/OpenSans-SemiBoldItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/Romanesco-Regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/ZouGB.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/school.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/shu.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/add_affix_nav.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/add_menu_icon.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/papers/2008-FSKD-Zou.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/papers/2008-ICICTA-Zhang.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/papers/2009-AICI-Wang.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/papers/2009-FSKD-Zou.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/papers/2009-ICCSIT-Zou.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/papers/2010-AICI-Wang.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/papers/2010-CCV-Zou.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/papers/2010-小型微型计算机系统-邹国兵.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/papers/2011-Soft-Computing-Zou.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/papers/2012-AAAI-Zou.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/papers/2012-CIT-Zou.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/papers/2012-ICA-Liu.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/papers/2013-Journal-of-Convergence-Information-Technology-Liu.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/papers/2013-Personal-and-Ubiquitous-Computing-Zhang.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/papers/2013-iThings-Jiang.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/papers/2013-iThings-Wu.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/papers/2013-iThings-Zheng.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/papers/2014-APIN-Zou.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/papers/2014-DSAA-Gu.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/papers/2014-DSAA-Zheng.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/papers/2014-ICCCNT-Zou.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/papers/2014-IJWET-Zou.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/papers/2014-KBS-Zou.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/papers/2014-TCBB-Gan.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/papers/2014-TSC-Zou.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/papers/2014-计算机仿真-甘杨兰.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/papers/2015-IMCCC-Shao.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/papers/2015-IMCCC-Zhu.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/papers/2015-JWS-Zheng.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/papers/2015-ScalCom-Guo.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/papers/2015-ScalCom-Luo.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/papers/2015-ScalCom-Zhu.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/papers/2016-BMC-Bioinformatics-Gan.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/papers/2016-CyberSciTech-Huang.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/papers/2016-GRMSE-Xin.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/papers/2016-SCC-Niu.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/papers/2016-SNPD-Gu.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/papers/2016-SNPD-Zou.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/papers/2016-计算机应用与软件-刘大海.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/papers/2017-ICWS-Niu.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/papers/2017-IJCCC-Cheng.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/papers/2017-IJWGS-Zou.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/papers/2017-应用科学学报-程树林.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/papers/2018-BMCMG-Gan.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/papers/2018-DSIT-Cheng.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/papers/2018-ESWA-Huang.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/papers/2018-ICALIP-Huang.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/papers/2018-ICIC-Gan.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/papers/2018-ICSOC-Zou.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/papers/2018-IS-Huang.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/papers/2018-JIT-Niu.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/papers/2018-JIT-Zou.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/papers/2019-ApplSci-Wan.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/papers/2019-BMC-Genomics-Zhang.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/papers/2019-CollaborateCom-Gan.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/papers/2019-CollaborateCom-Mashup-Zou.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/papers/2019-CollaborateCom-Uncertain-QoS-Zou.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/papers/2019-ICPADS-Liu.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/papers/2019-ICWS-Zou.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/papers/2019-IJMLC-Cheng.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/papers/2019-IJSTM-GE.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/papers/2019-IJWGS-Niu.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/papers/2019-IJWSR-Pang.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/papers/2019-JIFS-Chang.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/papers/2020-CNIOT-Ullah.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/papers/2020-FCDB-Gan.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/papers/2020-FIG-Gan.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/papers/2020-ICSOC-Zou.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/papers/2020-ICWS-Xu.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/papers/2020-IJCSE-Zou.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/papers/2020-IJIMS-Wu.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/papers/2020-IJITM-Wu.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/papers/2020-TNSM-Zou.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/papers/2020-TSC-Zou.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/papers/2021-CBC-Gan.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/papers/2021-IJSEKE-Wang.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/papers/2021-KBS-TSQP-Zou.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/papers/2021-KBS-Zou.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/papers/2021-TCBB-Gan.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/papers/2022-BIB-clustering-Gan.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/papers/2022-BIB-transcriptomics-Gan.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/papers/2022-Entropy-Hu.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/papers/2022-Entropy-Lv.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/papers/2022-FIO-Gan.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/papers/2022-ICSOC-Hu.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/papers/2022-KBS-Gan.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/papers/2022-KBS-TSQP-Zou.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/papers/2022-MMM-Wan.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/papers/2022-TCBB-Gan.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/papers/2022-TNSM-ST-EUA.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/papers/2022-TNSM-Zou.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/papers/2022-TSC-DeepWSC.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/papers/2022-TSC-ST-EUA.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/papers/2023-ApplSci-Zhao.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/papers/2023-BIB-DECC-Gan.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/papers/2023-BIB-DMFDDI-Gan.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/papers/2023-Bioinformatics-Gan.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/papers/2023-ICWS-MVGCL.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/papers/2023-NCAA-Wan.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/papers/2023-TSC-FHC-DQP.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/papers/2023-TSC-NCRL.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/papers/2023-TSC-ST-EUA.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/papers/2023-TSC-TRCF.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/papers/PW-Dataset.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/专业服务/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/团队成员/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/学术论文/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/教学工作/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/科研项目/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/联系我们/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/负责人/index.html" afterDir="false" />
+    <list default="true" id="4ea3ad81-821f-4fd8-933d-c8188df20b81" name="更改" comment="克隆别人项目测试">
+      <change afterPath="$PROJECT_DIR$/img/111.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/FCBD.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/FDBD2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -155,12 +24,16 @@
   &quot;associatedIndex&quot;: 5
 }</component>
   <component name="ProjectId" id="2YcBUKfIPaPi2qwYHyjF7vaZM1x" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "true",
@@ -175,6 +48,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Git\SaintZ1015.github.io\img" />
       <recent name="E:\Git\SaintZ1015.github.io\img\gallery" />
     </key>
   </component>
@@ -188,10 +62,35 @@
       <updated>1700815002394</updated>
       <workItem from="1700815004172" duration="14000" />
       <workItem from="1700815025201" duration="1011000" />
+      <workItem from="1700816208444" duration="395000" />
+      <workItem from="1700821121358" duration="4323000" />
+      <workItem from="1700827311184" duration="4670000" />
     </task>
+    <task id="LOCAL-00001" summary="克隆别人项目测试">
+      <option name="closed" value="true" />
+      <created>1700816536053</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1700816536053</updated>
+    </task>
+    <task id="LOCAL-00002" summary="克隆别人项目测试">
+      <option name="closed" value="true" />
+      <created>1700816575769</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1700816575769</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="克隆别人项目测试" />
+    <option name="LAST_COMMIT_MESSAGE" value="克隆别人项目测试" />
   </component>
 </project>
