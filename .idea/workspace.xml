@@ -5,9 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4ea3ad81-821f-4fd8-933d-c8188df20b81" name="更改" comment="克隆别人项目测试">
-      <change afterPath="$PROJECT_DIR$/img/111.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/FCBD.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/FDBD2.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -64,7 +61,7 @@
       <workItem from="1700815025201" duration="1011000" />
       <workItem from="1700816208444" duration="395000" />
       <workItem from="1700821121358" duration="4323000" />
-      <workItem from="1700827311184" duration="4670000" />
+      <workItem from="1700827311184" duration="6099000" />
     </task>
     <task id="LOCAL-00001" summary="克隆别人项目测试">
       <option name="closed" value="true" />

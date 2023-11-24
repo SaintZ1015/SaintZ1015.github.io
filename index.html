@@ -14,6 +14,72 @@
         <link rel="stylesheet" href="/css/index.css">
         <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.13.0/css/all.min.css">
         <meta name="generator" content="Hexo 5.1.1">
+        <style>
+            .grid-container {
+                display: grid;
+                grid-template-columns: 33.3% 33.3% 33.3%;
+            }
+
+            .grid-item {
+                padding: 8px;
+                margin-bottom: 10px;
+                text-align: center;
+            }
+
+            .div-gallery-item-container {
+                box-shadow: 10px 10px 5px #888888;
+                border-radius: 5px;
+                border: 0.7px solid #AAAAAA;
+                margin: 5px;
+                min-height: 500px;
+            }
+
+            .img-gallery {
+                border-radius: 5px 5px 0px 0px;
+            }
+
+            .div-name {
+                margin-top: 3px;
+                text-align: left;
+            }
+
+            .font-title {
+                font-size: 1.22em;
+                font-weight: bold;
+                padding-left: 10px;
+            }
+
+            .font-sub-title {
+                font-size: 0.85em;
+                padding-left: 10px;
+                margin-top: -3px;
+                color: #808B96;
+            }
+
+            .div-description {
+                padding-left: 10px;
+                padding-right: 10px;
+                margin-top: 8px;
+                text-align: left;
+                padding-bottom: 5px;
+            }
+
+            .font-plain-title {
+                font-size: 1.22em;
+                font-weight: bold;
+            }
+
+            .font-plain-sub-title {
+                font-size: 0.85em;
+                padding-left: 10px;
+                margin-top: -3px;
+                color: #808B96;
+            }
+
+            .font-plain-description {
+                padding-left: 25px;
+            }
+        </style>
     </head>
 
     <body>
@@ -34,7 +100,6 @@
                 </ul>
             </div>
         </header>
-
         <main id="page_main">
             <!-- 第一块 侧边栏 -->
             <div class="side-card sticky">
@@ -83,154 +148,81 @@
 
                     <!-- 下面是调整页面风格的代码，和页面内容无关 -->
 
-                    <style type="text/css">
-                        .grid-container {
-                            display: grid;
-                            grid-template-columns: 33.3% 33.3% 33.3%;
-                            /* background-color: #2196F3;
-                            padding: 10px; */
-                        }
+<!--                    <style type="text/css">-->
+<!--                        .grid-container {-->
+<!--                            display: grid;-->
+<!--                            grid-template-columns: 33.3% 33.3% 33.3%;-->
+<!--                            /* background-color: #2196F3;-->
+<!--                            padding: 10px; */-->
+<!--                        }-->
 
-                        .grid-item {
-                            /* background-color: rgba(255, 255, 255, 0.8); */
-                            /* border: 1px solid rgba(0, 0, 0, 0.8); */
-                            padding: 8px;
-                            margin-bottom: 10px;
-                            /* font-size: 30px; */
-                            text-align: center;
-                        }
+<!--                        .grid-item {-->
+<!--                            /* background-color: rgba(255, 255, 255, 0.8); */-->
+<!--                            /* border: 1px solid rgba(0, 0, 0, 0.8); */-->
+<!--                            padding: 8px;-->
+<!--                            margin-bottom: 10px;-->
+<!--                            /* font-size: 30px; */-->
+<!--                            text-align: center;-->
+<!--                        }-->
 
-                        .div-gallery-item-container {
-                            box-shadow: 10px 10px 5px #888888;
-                            border-radius: 5px;
-                            border: 0.7px solid #AAAAAA;
-                            margin: 5px;
-                            min-height: 500px;
-                        }
+<!--                        .div-gallery-item-container {-->
+<!--                            box-shadow: 10px 10px 5px #888888;-->
+<!--                            border-radius: 5px;-->
+<!--                            border: 0.7px solid #AAAAAA;-->
+<!--                            margin: 5px;-->
+<!--                            min-height: 500px;-->
+<!--                        }-->
 
-                        .img-gallery {
-                            border-radius: 5px 5px 0px 0px;
-                        }
+<!--                        .img-gallery {-->
+<!--                            border-radius: 5px 5px 0px 0px;-->
+<!--                        }-->
 
-                        .div-name {
-                            margin-top: 3px;
-                            text-align: left;
-                        }
+<!--                        .div-name {-->
+<!--                            margin-top: 3px;-->
+<!--                            text-align: left;-->
+<!--                        }-->
 
-                        .font-title {
-                            font-size: 1.22em;
-                            font-weight: bold;
-                            padding-left: 10px;
-                        }
+<!--                        .font-title {-->
+<!--                            font-size: 1.22em;-->
+<!--                            font-weight: bold;-->
+<!--                            padding-left: 10px;-->
+<!--                        }-->
 
-                        .font-sub-title {
-                            font-size: 0.85em;
-                            padding-left: 10px;
-                            margin-top: -3px;
-                            color: #808B96;
-                        }
+<!--                        .font-sub-title {-->
+<!--                            font-size: 0.85em;-->
+<!--                            padding-left: 10px;-->
+<!--                            margin-top: -3px;-->
+<!--                            color: #808B96;-->
+<!--                        }-->
 
-                        .div-description {
-                            padding-left: 10px;
-                            padding-right: 10px;
-                            margin-top: 8px;
-                            text-align: left;
-                            padding-bottom: 5px;
-                        }
+<!--                        .div-description {-->
+<!--                            padding-left: 10px;-->
+<!--                            padding-right: 10px;-->
+<!--                            margin-top: 8px;-->
+<!--                            text-align: left;-->
+<!--                            padding-bottom: 5px;-->
+<!--                        }-->
 
-                        .font-plain-title {
-                            font-size: 1.22em;
-                            font-weight: bold;
-                        }
+<!--                        .font-plain-title {-->
+<!--                            font-size: 1.22em;-->
+<!--                            font-weight: bold;-->
+<!--                        }-->
 
-                        .font-plain-sub-title {
-                            font-size: 0.85em;
-                            padding-left: 10px;
-                            margin-top: -3px;
-                            color: #808B96;
-                        }
+<!--                        .font-plain-sub-title {-->
+<!--                            font-size: 0.85em;-->
+<!--                            padding-left: 10px;-->
+<!--                            margin-top: -3px;-->
+<!--                            color: #808B96;-->
+<!--                        }-->
 
-                        .font-plain-description {
-                            padding-left: 25px;
-                        }
+<!--                        .font-plain-description {-->
+<!--                            padding-left: 25px;-->
+<!--                        }-->
 
-                    </style>
-                    <script>
-                        // 自定义string.endWith函数
-                        String.prototype.endWith = function (endStr) {
-                            var d = this.length - endStr.length;
-                            return (d >= 0 && this.lastIndexOf(endStr) == d)
-                        }
-
-                        function delHtmlTag(str) {
-                            return str.replace(/<[^>]+>/g, "");
-                        }
-
-                        function createPlainList() {
-                            var article = document.getElementsByTagName('article')[0];
-                            var ulList = article.getElementsByTagName('ul');
-                            for (var i = ulList.length - 1; i >= 0; i--) {
-                                var liList = ulList[i].getElementsByTagName('li');
-
-                                var divList = new Array();
-                                for (var j = 0; j < liList.length; j++) {
-                                    console.log(liList[j]);
-                                    console.log(liList[j].innerHTML);
-                                    var splitStr = liList[j].innerHTML.split("&amp;&amp;");
-                                    console.log(splitStr);
-                                    while (splitStr.length < 3) {
-                                        splitStr.push("");
-                                    }
-                                    var divPlain = document.createElement('div');
-                                    var divTitle = document.createElement('div');
-                                    var fontPlainTitle = document.createElement('font');
-                                    fontPlainTitle.setAttribute("class", "font-plain-title");
-
-                                    fontPlainTitle.innerText = delHtmlTag(splitStr[0]);
-                                    divTitle.appendChild(fontPlainTitle);
-
-                                    var fontPlainSubTitle = document.createElement('font');
-                                    fontPlainSubTitle.setAttribute("class", "font-plain-sub-title");
-                                    fontPlainSubTitle.innerText = delHtmlTag(splitStr[1]);
-                                    divTitle.appendChild(fontPlainSubTitle);
-
-                                    divPlain.appendChild(divTitle);
-
-                                    var fontPlainDesc = document.createElement('font');
-                                    fontPlainDesc.setAttribute("class", "font-plain-description");
-                                    fontPlainDesc.innerHTML = splitStr[2];
-                                    divPlain.appendChild(fontPlainDesc);
-
-                                    article.insertBefore(divPlain, ulList[i]);
-                                }
-                                article.removeChild(ulList[i]);
-                            }
-                        }
-
-                        createPlainList();
-                    </script>
+<!--                    </style>-->
                 </article>
             </div>
         </main>
-
-        <div class="nav-wrap">
-            <div class="nav">
-                <button class="site-nav">
-                    <div class="navicon"></div>
-                </button>
-                <ul class="nav_items">
-                    <li class="nav_item"><a class="nav-page" href="/%E8%B4%9F%E8%B4%A3%E4%BA%BA"> 负责人</a></li>
-                    <li class="nav_item"><a class="nav-page" href="/%E5%9B%A2%E9%98%9F%E6%88%90%E5%91%98"> 团队成员</a></li>
-                    <li class="nav_item"><a class="nav-page" href="/%E5%AD%A6%E6%9C%AF%E8%AE%BA%E6%96%87"> 学术论文</a></li>
-                    <li class="nav_item"><a class="nav-page" href="/%E7%A7%91%E7%A0%94%E9%A1%B9%E7%9B%AE"> 科研项目</a></li>
-                    <li class="nav_item"><a class="nav-page" href="/%E4%B8%93%E4%B8%9A%E6%9C%8D%E5%8A%A1"> 专业服务</a></li>
-                    <li class="nav_item"><a class="nav-page" href="/%E6%95%99%E5%AD%A6%E5%B7%A5%E4%BD%9C"> 教学工作</a></li>
-                    <li class="nav_item"><a class="nav-page" href="/%E8%81%94%E7%B3%BB%E6%88%91%E4%BB%AC"> 联系我们</a></li>
-                </ul>
-            </div>
-            <div class="cd-top"><i class="fa fa-arrow-up" aria-hidden="true"></i></div>
-        </div>
-
         <footer id="page_footer">
             <div class="footer_wrap">
                 <a href="https://ifcbd-shu.github.io/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
@@ -243,7 +235,59 @@
                 </div>
             </div>
         </footer>
+        <script>
+            // 自定义string.endWith函数
+            String.prototype.endWith = function (endStr) {
+                var d = this.length - endStr.length;
+                return (d >= 0 && this.lastIndexOf(endStr) == d)
+            }
 
+            function delHtmlTag(str) {
+                return str.replace(/<[^>]+>/g, "");
+            }
+
+            function createPlainList() {
+                var article = document.getElementsByTagName('article')[0];
+                var ulList = article.getElementsByTagName('ul');
+                for (var i = ulList.length - 1; i >= 0; i--) {
+                    var liList = ulList[i].getElementsByTagName('li');
+
+                    var divList = new Array();
+                    for (var j = 0; j < liList.length; j++) {
+                        console.log(liList[j]);
+                        console.log(liList[j].innerHTML);
+                        var splitStr = liList[j].innerHTML.split("&amp;&amp;");
+                        console.log(splitStr);
+                        while (splitStr.length < 3) {
+                            splitStr.push("");
+                        }
+                        var divPlain = document.createElement('div');
+                        var divTitle = document.createElement('div');
+                        var fontPlainTitle = document.createElement('font');
+                        fontPlainTitle.setAttribute("class", "font-plain-title");
+
+                        fontPlainTitle.innerText = delHtmlTag(splitStr[0]);
+                        divTitle.appendChild(fontPlainTitle);
+
+                        var fontPlainSubTitle = document.createElement('font');
+                        fontPlainSubTitle.setAttribute("class", "font-plain-sub-title");
+                        fontPlainSubTitle.innerText = delHtmlTag(splitStr[1]);
+                        divTitle.appendChild(fontPlainSubTitle);
+
+                        divPlain.appendChild(divTitle);
+
+                        var fontPlainDesc = document.createElement('font');
+                        fontPlainDesc.setAttribute("class", "font-plain-description");
+                        fontPlainDesc.innerHTML = splitStr[2];
+                        divPlain.appendChild(fontPlainDesc);
+
+                        article.insertBefore(divPlain, ulList[i]);
+                    }
+                    article.removeChild(ulList[i]);
+                }
+            }
+            createPlainList();
+        </script>
         <script src="https://cdn.jsdelivr.net/npm/jquery@latest/dist/jquery.min.js"></script>
         <script src="https://cdn.jsdelivr.net/npm/jquery-pjax@latest/jquery.pjax.min.js"></script>
         <script src="/js/main.js"></script>
