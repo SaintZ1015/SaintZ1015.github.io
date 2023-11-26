@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4ea3ad81-821f-4fd8-933d-c8188df20b81" name="更改" comment="克隆别人项目测试" />
+    <list default="true" id="4ea3ad81-821f-4fd8-933d-c8188df20b81" name="更改" comment="克隆别人项目测试">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/学术论文/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/学术论文/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/教学工作/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/教学工作/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/科研项目/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/科研项目/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/联系我们/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/联系我们/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/负责人/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/负责人/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -59,7 +66,7 @@
       <workItem from="1700816208444" duration="395000" />
       <workItem from="1700821121358" duration="4323000" />
       <workItem from="1700827311184" duration="7509000" />
-      <workItem from="1700997784464" duration="2452000" />
+      <workItem from="1700997784464" duration="3681000" />
     </task>
     <task id="LOCAL-00001" summary="克隆别人项目测试">
       <option name="closed" value="true" />
