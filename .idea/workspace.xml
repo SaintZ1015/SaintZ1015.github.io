@@ -4,7 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4ea3ad81-821f-4fd8-933d-c8188df20b81" name="更改" comment="克隆别人项目测试" />
+    <list default="true" id="4ea3ad81-821f-4fd8-933d-c8188df20b81" name="更改" comment="克隆别人项目测试">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/专业服务/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/专业服务/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/团队成员/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/团队成员/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/学术论文/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/学术论文/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/教学工作/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/教学工作/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/科研项目/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/科研项目/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/联系我们/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/联系我们/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/负责人/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/负责人/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,21 +35,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\Git\SaintZ1015.github.io\img" />
@@ -58,7 +68,8 @@
       <workItem from="1700815025201" duration="1011000" />
       <workItem from="1700816208444" duration="395000" />
       <workItem from="1700821121358" duration="4323000" />
-      <workItem from="1700827311184" duration="6411000" />
+      <workItem from="1700827311184" duration="7509000" />
+      <workItem from="1700997784464" duration="873000" />
     </task>
     <task id="LOCAL-00001" summary="克隆别人项目测试">
       <option name="closed" value="true" />
