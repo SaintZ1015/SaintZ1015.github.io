@@ -4,74 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4ea3ad81-821f-4fd8-933d-c8188df20b81" name="更改" comment="克隆别人项目测试">
-      <change afterPath="$PROJECT_DIR$/img/gallery/tx.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/ZouGB-shanshui.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/ZouGB.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/ZouGB0.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/ZouGB1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/ZouGB2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/gallery/2022-lipengtao.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/gallery/2022-wangyile.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/gallery/2022-yangmengjia.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/gallery/2022-yanzhi.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/gallery/2023-pushengyuan.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/gallery/2023-yanglei.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/gallery/2023-yeshuyi.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/gallery/2023-zhaofei.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/gallery/chengshulin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/gallery/chenjin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/gallery/chenyixin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/gallery/farhan.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/gallery/ganyanglan.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/gallery/heqiang.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/gallery/huangmingqing.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/gallery/huangyutao.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/gallery/hushengxiang-0.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/gallery/hushengxiang.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/gallery/jiangming.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/gallery/linshiyi.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/gallery/litengfei.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/gallery/liuya.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/gallery/liwang.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/gallery/lvhehe.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/gallery/lvying.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/gallery/niusen.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/gallery/pangshengye.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/gallery/panjianli.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/gallery/qinzhen.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/gallery/scdm-shu-default.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/gallery/scdm-shu-default.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/gallery/shamo.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/gallery/wanyongquan.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/gallery/wuhao.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/gallery/wushaogang.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/gallery/xiangyang.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/gallery/yangsong-phd-0.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/gallery/yangsong-phd.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/gallery/yangsong.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/gallery/yuwenzhuo.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/gallery/zengchunhua.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/gallery/zhangbofeng.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/gallery/zhangbofeng1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/gallery/zhangxia.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/gallery/zhaomei.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/gallery/zhengjianxing.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/gallery/zhouzhimin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/gallery/zhuyue.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/scdm-logo-colorful-72ppi.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/scdm-logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/zgb.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/专业服务/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/专业服务/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/团队成员/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/团队成员/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/学术论文/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/学术论文/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/教学工作/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/教学工作/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/科研项目/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/科研项目/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/联系我们/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/联系我们/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/负责人/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/负责人/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="4ea3ad81-821f-4fd8-933d-c8188df20b81" name="更改" comment="克隆别人项目测试" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -126,7 +59,7 @@
       <workItem from="1700816208444" duration="395000" />
       <workItem from="1700821121358" duration="4323000" />
       <workItem from="1700827311184" duration="7509000" />
-      <workItem from="1700997784464" duration="2437000" />
+      <workItem from="1700997784464" duration="2452000" />
     </task>
     <task id="LOCAL-00001" summary="克隆别人项目测试">
       <option name="closed" value="true" />
